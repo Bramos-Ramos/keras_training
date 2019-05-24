@@ -1,1 +1,1 @@
-"# keras_training" 
+Repository for Keras learning and training
